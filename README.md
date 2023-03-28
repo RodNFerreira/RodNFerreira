@@ -16,4 +16,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+Apaixonado por tecnologia, programar e aprender coisas novas. Nerd por natureza!
+![6vCF](https://user-images.githubusercontent.com/127325385/228327417-86637b1b-7cea-45e1-bac9-2b2a6927d654.gif)
+
 
